@@ -34,7 +34,7 @@ namespace tcpIpTestClient
         private void ConnectServer()
 
         {
-
+            //我在這邊家東西測試github.
             try
 
             {
