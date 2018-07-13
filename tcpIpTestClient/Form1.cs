@@ -35,6 +35,7 @@ namespace tcpIpTestClient
 
         {
             //我在這邊家東西測試github.
+            //123
             try
 
             {
